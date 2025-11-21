@@ -147,3 +147,14 @@ Welcome to LAN Chat Server!
 Enter your username: 
 Username set to: Alice
 Type /help for available commands
+
+3. Run Clients on Same Network
+On other computers, run:
+
+bash
+java -jar ChatClient.jar <SERVER_IP> 8080
+Example:
+
+bash
+java -jar ChatClient.jar 192.168.1.100 8080
+java -jar ChatClient.jar 192.168.1.100 8080
