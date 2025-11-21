@@ -1,4 +1,4 @@
-🚀 Running the Application           # for day 1
+🚀 Running the Application           # for day 1 app - it will work in MCA lab at vsb college
 1. Start the Server
 Open Command Prompt/Terminal and run:
 
